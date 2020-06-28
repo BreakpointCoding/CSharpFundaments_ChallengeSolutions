@@ -1,0 +1,13 @@
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\bin\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.exe
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\bin\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.deps.json
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\bin\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.runtimeconfig.json
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\bin\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.runtimeconfig.dev.json
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\bin\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.dll
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\bin\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.pdb
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.csprojAssemblyReference.cache
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.AssemblyInfoInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.AssemblyInfo.cs
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.dll
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.pdb
+C:\Users\Trema\source\repos\CodingExercises\CollectionsExercise_DungeonCrawler\obj\Debug\netcoreapp3.1\CollectionsExercise_DungeonCrawler.genruntimeconfig.cache

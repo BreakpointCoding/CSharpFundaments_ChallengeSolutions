@@ -1,0 +1,13 @@
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\bin\Debug\netcoreapp3.1\MethodsExercise_PitFighters.exe
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\bin\Debug\netcoreapp3.1\MethodsExercise_PitFighters.deps.json
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\bin\Debug\netcoreapp3.1\MethodsExercise_PitFighters.runtimeconfig.json
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\bin\Debug\netcoreapp3.1\MethodsExercise_PitFighters.runtimeconfig.dev.json
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\bin\Debug\netcoreapp3.1\MethodsExercise_PitFighters.dll
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\bin\Debug\netcoreapp3.1\MethodsExercise_PitFighters.pdb
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.csprojAssemblyReference.cache
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.csproj.CoreCompileInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.AssemblyInfoInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.AssemblyInfo.cs
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.dll
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.pdb
+C:\Users\Trema\source\repos\CodingExercises\MethodsExercise_PitFighters\obj\Debug\netcoreapp3.1\MethodsExercise_PitFighters.genruntimeconfig.cache

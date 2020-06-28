@@ -1,0 +1,13 @@
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\bin\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.exe
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\bin\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.deps.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\bin\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.runtimeconfig.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\bin\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.runtimeconfig.dev.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\bin\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.dll
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\bin\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.pdb
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.csprojAssemblyReference.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.AssemblyInfoInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.AssemblyInfo.cs
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.dll
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.pdb
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_DungeonCrawler_Collections\obj\Debug\netcoreapp3.1\CollectionsChallenge_DungeonCrawler.genruntimeconfig.cache

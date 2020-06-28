@@ -1,0 +1,13 @@
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\bin\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.exe
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\bin\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.deps.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\bin\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.runtimeconfig.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\bin\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.runtimeconfig.dev.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\bin\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.dll
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\bin\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.pdb
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.csprojAssemblyReference.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.csproj.CoreCompileInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.AssemblyInfoInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.AssemblyInfo.cs
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.dll
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.pdb
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_BattleArena_Loops\obj\Debug\netcoreapp3.1\LoopsChallenge_BattleArena.genruntimeconfig.cache

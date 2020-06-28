@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CollectionsChallenge_DungeonCrawler/1.0.0": {
+        "runtime": {
+          "CollectionsChallenge_DungeonCrawler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CollectionsChallenge_DungeonCrawler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

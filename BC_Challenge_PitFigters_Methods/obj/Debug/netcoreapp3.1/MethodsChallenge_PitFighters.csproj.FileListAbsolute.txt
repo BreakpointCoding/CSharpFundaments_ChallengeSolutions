@@ -1,0 +1,13 @@
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\bin\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.exe
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\bin\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.deps.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\bin\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.runtimeconfig.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\bin\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.runtimeconfig.dev.json
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\bin\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.dll
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\bin\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.pdb
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.csprojAssemblyReference.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.csproj.CoreCompileInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.AssemblyInfoInputs.cache
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.AssemblyInfo.cs
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.dll
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.pdb
+C:\Users\Trema\source\repos\CodingExercises\BC_Challenge_PitFigters_Methods\obj\Debug\netcoreapp3.1\MethodsChallenge_PitFighters.genruntimeconfig.cache
